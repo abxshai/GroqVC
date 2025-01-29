@@ -71,7 +71,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("ScaleSpace")
+st.title("GroqVC")
+st.text("Get personalized advice about your startup idea and pitch deck!")
 
 
 
